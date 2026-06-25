@@ -25,3 +25,33 @@
     font-weight: 700;
     font-style: italic;
 }
+
+.modern-btn {
+    /* 1. Makes it bigger */
+    padding: 12px 24px;
+    font-size: 16px;
+    
+    /* 2. Makes it rounded (use 50px for a pill/capsule shape) */
+    border-radius: 8px;
+    
+    /* 3. Makes it look nice */
+    background-color: #007BFF; /* A clean blue */
+    color: white;             /* White text */
+    border: none;             /* Removes the default ugly border */
+    font-family: sans-serif;  /* Cleans up the text style */
+    font-weight: 600;
+    cursor: pointer;          /* Shows the pointer hand on hover */
+    
+    /* Smooth transition for the hover effect */
+    transition: background-color 0.2s ease, transform 0.1s ease;
+}
+
+/* This makes it react when hovered over */
+.modern-btn:hover {
+    background-color: #0056b3; 
+}
+
+/* Optional: This makes it shrink slightly when clicked */
+.modern-btn:active {
+    transform: scale(0.98);
+}
