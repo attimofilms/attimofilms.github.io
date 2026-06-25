@@ -13,7 +13,7 @@
     <nav class="navbar">
       <div class="logo">Attimo Films</div>
       <ul class="nav-links">
-        <li><a href="#">Home</a></li>
+        <li><a href="index.html">Home</a></li>
         <li><a href="#">About</a></li>
         <li><a href="#">Portfolio</a></li>
         <li><a href="book.html">Book</a></li>
