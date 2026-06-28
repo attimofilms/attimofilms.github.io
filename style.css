@@ -61,6 +61,10 @@
     font-style: normal;
 }
 
+h1, h2, big {
+    padding: 0, 300;
+}
+
 h1, h2 {
     font-family: Archivo Black;
 }
