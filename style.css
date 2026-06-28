@@ -29,14 +29,14 @@
 @font-face {
     font-family: 'Cabin';
     src: url('fonts/Cabin-Regular.ttf') format('truetype');
-    font-weight: 300;
+    font-weight: 250;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Cabin';
     src: url('fonts/Cabin-Italic.ttf') format('truetype');
-    font-weight: 300;
+    font-weight: 250;
     font-style: italic;
 }
 
