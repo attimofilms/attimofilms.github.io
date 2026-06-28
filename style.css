@@ -65,6 +65,11 @@ h1, h2 {
     font-family: Archivo Black;
 }
 
+big {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
 body {
     font-family: Trebuchet MS;
     margin: 0;
