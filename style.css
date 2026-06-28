@@ -62,6 +62,7 @@
 }
 
 h1, h2, big {
+    display: inline-block;
     padding: 0, 300;
 }
 
