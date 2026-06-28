@@ -61,17 +61,14 @@
     font-style: normal;
 }
 
-h1, h2, big {
-    padding: 0 300px;
-}
-
 h1, h2 {
     font-family: Archivo Black;
+    padding: 0 300px;
 }
 
 big {
     display: inline-block;
-    padding: 4px 0;
+    padding: 4px 300px;
 }
 
 body {
